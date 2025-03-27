@@ -2,8 +2,6 @@
 
 A modern, interactive implementation of the classic Tic-Tac-Toe game built with React. This project was created following Maximilian Schwarzmüller's Udemy React course.
 
-![Tic-Tac-Toe Game Preview](https://github.com/yourusername/Udemy_Tic_Tac_Toe/raw/main/screenshot.png)
-
 ## Features
 
 - **Interactive Game Board**: Clickable 3x3 grid for placing X and O marks
